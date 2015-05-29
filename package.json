@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Techiemouse/ExifDataAnalysis/issues"
   },
-  "homepage": "https://github.com/Techiemouse/ExifDataAnalysis#readme"
+  "homepage": "https://github.com/Techiemouse/ExifDataAnalysis#readme",
+  "dependencies": {
+    "exif": "^0.4.0",
+    "exif-parser": "^0.1.9",
+    "exiftool": "0.0.3",
+    "express": "^4.12.4",
+    "mongodb": "^2.0.33"
+  }
 }
